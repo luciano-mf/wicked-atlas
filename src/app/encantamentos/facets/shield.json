@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Meditative",
+    "upside": "Ganho de Foco aumentado",
+    "downside": "Poise reduzido",
+    "description": "Aumenta o ganho de Foco, mas reduz o Poise.",
+    "original_upside": "+Focus Gain",
+    "original_downside": "-Poise"
+  }
+]

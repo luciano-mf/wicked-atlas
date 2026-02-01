@@ -1,0 +1,147 @@
+[
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Misc",
+    "description": "Dano de Atordoamento aumentado em 15%-30% por 20 segundos após matar um inimigo",
+    "original": "Stagger Damage increased by 15%-30% for 20 seconds after Kill"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Misc",
+    "description": "Dano de Atordoamento aumentado em 15%-30% por 30 segundos após Backstab",
+    "original": "Stagger Damage increased by 15%-30% for 30 seconds after Backstab"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 30%-100%",
+    "original": "Durability increased by 30%-100%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Misc",
+    "description": "Peso reduzido em 3%-10%",
+    "original": "Weight reduced by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Misc",
+    "description": "Dano aumentado em 15%-30% por 30 segundos após Backstab",
+    "original": "Damage increased by 15%-30% for 30 seconds after Backstab"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Dano de Ataque aumentado em 4%-15%",
+    "original": "Attack Damage increased by 4%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Dano aumentado em 3%-10%",
+    "original": "Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Dano de Ataque aumentado em 6%-20% por 10 segundos após dano causado por Ataque Rúnico",
+    "original": "Attack Damage increased by 6%-20% for 10 seconds after Damage Dealt by Rune Attack"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Dano aumentado em 2%-5% para cada inimigo próximo",
+    "original": "Damage increased by 2%-5% for each Nearby Enemy"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Causa 7%-25% de dano ao atordoar um inimigo",
+    "original": "Deal 7%-25% Damage on Staggering an Enemy"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Dano Rúnico aumentado em 4%-15%",
+    "original": "Rune Damage increased by 4%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Dano de Atordoamento aumentado em 4%-15%",
+    "original": "Stagger Damage increased by 4%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Velocidade de Ataque aumentada em 3%-10% com base na durabilidade atual",
+    "original": "Attack Speed increased by 3%-10% of Current Durability"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Dano aumentado em 3%-10% com base na durabilidade atual",
+    "original": "Damage increased by 3%-10% of Current Durability"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Offensive",
+    "description": "Custo de Vigor do Ataque reduzido em 7%-15%",
+    "original": "Attack Stamina Cost reduced by 7%-15%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Stamina",
+    "description": "Custo de Vigor do Ataque reduzido em 7%-25% por 10 segundos após Parry",
+    "original": "Attack Stamina Cost reduced by 7%-25% for 10 seconds after Parry"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Health",
+    "description": "Recupera 4%-10% de Vida ao matar",
+    "original": "Gain 4%-10% Health on Kill"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 3%-10%",
+    "original": "Critical Hit Chance increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 6%-20%",
+    "original": "Critical Damage increased by 6%-20%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Weapon",
+    "group": "Defence",
+    "description": "Ganha 12%-25% de Barreira ao matar",
+    "original": "Gain 12%-25% Barrier on Kill"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 50%-100%",
+    "original": "Durability increased by 50%-100%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Misc",
+    "description": "Peso reduzido em 5%-10%",
+    "original": "Weight reduced by 5%-10%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 20%-40%",
+    "original": "Gain 20%-40% Thorns"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Penetração de Armadura aumentada em 7%-15%",
+    "original": "Gain 7%-15% Armor Penetration"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Dano de Ataque Carregado aumentado em 10%-20%",
+    "original": "Charged Attack Damage increased by 10%-20%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Causa 12%-25% de dano ao aparar",
+    "original": "Deal 12%-25% Damage on Parry"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Dano de Ataque Normal aumentado em 12%-25% por 5 segundos após causar dano com Ataque Carregado",
+    "original": "Normal Attack Damage increased by 12%-25% for 5 seconds after Damage Dealt by Charged Attack"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Executa inimigos infectados com pouca vida ao causar dano",
+    "original": "Execute Infected Low Health Enemies on Damage Dealt"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Dano aumentado em 7%-15% por 10 segundos após Parry",
+    "original": "Damage increased by 7%-15% for 10 seconds after Parry"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Stamina",
+    "description": "Ganha 20–40 de Vigor ao atordoar um inimigo",
+    "original": "Gain 20-40 Stamina on Staggering an Enemy"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Gelo aumentado em 5%-10%",
+    "original": "Ice Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Fogo aumentado em 5%-10%",
+    "original": "Fire Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Raio aumentado em 5%-10%",
+    "original": "Lightning Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano Físico aumentado em 5%-10%",
+    "original": "Physical Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Praga aumentado em 5%-10%",
+    "original": "Plague Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Acúmulo de Queimadura aumentado em 10%-20%",
+    "original": "Burn Buildup increased by 10%-20%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Acúmulo de Gelo aumentado em 10%-20%",
+    "original": "Frost Buildup increased by 10%-20%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Acúmulo de Infecção aumentado em 10%-20%",
+    "original": "Infection Buildup increased by 10%-20%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Acúmulo de Choque aumentado em 10%-20%",
+    "original": "Shock Buildup increased by 10%-20%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Recupera 5%-10% de Vida ao matar um inimigo",
+    "original": "Gain 5%-10% Health on Kill"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Recupera 7%-15% de Vida ao atordoar um inimigo",
+    "original": "Gain 7%-15% Health on Staggering an Enemy"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Cura aumentada em 7%-15% com base na durabilidade atual",
+    "original": "Healing increased by 7%-15% of Current Durability"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Roubo de Vida aumentado em 10%-20% contra inimigos sangrando",
+    "original": "Gain 10%-20% Lifesteal against Bleeding Enemies"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Recupera 5%-10% de Vida ao aparar",
+    "original": "Gain 5%-10% Health on Parry"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 5%-10%",
+    "original": "Critical Hit Chance increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 10%-20%",
+    "original": "Critical Damage increased by 10%-20%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 10%-20% contra inimigos queimando",
+    "original": "Critical Hit Chance increased by 10%-20% against Burning Enemies"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Defence",
+    "description": "Resistência Elemental aumentada em 5%-10%",
+    "original": "Elemental Resistance increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Gloves",
+    "group": "Defence",
+    "description": "Resistência Física aumentada em 3%-6%",
+    "original": "Physical Resistance increased by 3%-6%"
+  }
+]

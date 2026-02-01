@@ -1,0 +1,75 @@
+[
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 50%-100%",
+    "original": "Durability increased by 50%-100%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Misc",
+    "description": "Peso reduzido em 5%-10%",
+    "original": "Weight reduced by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Misc",
+    "description": "Defesa de Postura aumentada em 5–10 ao bloquear",
+    "original": "Poise Defense increased by 5-10 while Blocking"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 20%-40%",
+    "original": "Gain 20%-40% Thorns"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Causa 7%-15% de dano ao bloquear",
+    "original": "Deal 7%-15% Damage on Block"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Dano aumentado em 7%-15% por 10 segundos após bloquear",
+    "original": "Damage increased by 7%-15% for 10 seconds after Block"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Causa 12%-25% de dano ao aparar",
+    "original": "Deal 12%-25% Damage on Parry"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Dano aumentado em 7%-15% por 10 segundos após Parry",
+    "original": "Damage increased by 7%-15% for 10 seconds after Parry"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Health",
+    "description": "Recupera 5%-10% de Vida ao aparar",
+    "original": "Gain 5%-10% Health on Parry"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Shield",
+    "group": "Movement",
+    "description": "Resistência a dano aumentada em 7%-15% enquanto bloqueando",
+    "original": "Damage Resistance increased by 7%-15% while Blocking"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 30%-100%",
+    "original": "Durability increased by 30%-100%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Misc",
+    "description": "Peso reduzido em 3%-10%",
+    "original": "Weight reduced by 3%-10%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 12%-40%",
+    "original": "Gain 12%-40% Thorns"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Dano aumentado em 5%-15% por 10 segundos após Parry",
+    "original": "Damage increased by 5%-15% for 10 seconds after Parry"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Causa 7%-25% de dano ao aparar",
+    "original": "Deal 7%-25% Damage on Parry"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Causa 5%-15% de dano ao bloquear",
+    "original": "Deal 5%-15% Damage on Block"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Offensive",
+    "description": "Dano aumentado em 7%-15% por 10 segundos após bloquear",
+    "original": "Damage increased by 7%-15% for 10 seconds after Block"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Focus",
+    "description": "Ganha 2–5 de Foco ao bloquear",
+    "original": "Gain 2-5 Focus on Block"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Focus",
+    "description": "Ganha 5–15 de Foco ao aparar",
+    "original": "Gain 5-15 Focus on Parry"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Stamina",
+    "description": "Ganha 9–30 de Vigor ao aparar",
+    "original": "Gain 9-30 Stamina on Parry"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Stamina",
+    "description": "Ganha 5–15 de Vigor ao bloquear",
+    "original": "Gain 5-15 Stamina on Block"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Shield",
+    "group": "Defence",
+    "description": "Resistência a dano aumentada em 4%-15% enquanto bloqueando",
+    "original": "Damage Resistance increased by 4%-15% while Blocking"
+  }
+]

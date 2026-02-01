@@ -1,0 +1,184 @@
+[
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 30%-100%",
+    "original": "Durability increased by 30%-100%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Misc",
+    "description": "Peso reduzido em 3%-10%",
+    "original": "Weight reduced by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Misc",
+    "description": "Defesa de Postura aumentada em 1–3",
+    "original": "Poise Defense increased by 1-3"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Misc",
+    "description": "Resistência a Atordoamento aumentada em 7%-15%",
+    "original": "Stagger Resistance increased by 7%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Misc",
+    "description": "Perda de durabilidade ignorada com chance de 7%-25%",
+    "original": "Durability Loss ignored with 7%-25% chance"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 12%-40%",
+    "original": "Gain 12%-40% Thorns"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Causa 7%-25% de dano ao aparar",
+    "original": "Deal 7%-25% Damage on Parry"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Dano de Ataque Normal aumentado em 4%-15% por 4 segundos após causar dano com Ataque Carregado",
+    "original": "Normal Attack Damage increased by 4%-15% for 4 seconds after Damage Dealt by Charged Attack"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Dano de Atordoamento aumentado em 6%-20% por 4 segundos após causar dano com Ataque Carregado",
+    "original": "Stagger Damage increased by 6%-20% for 4 seconds after Damage Dealt by Charged Attack"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Offensive",
+    "description": "Penetração de Armadura aumentada em 7%-15%",
+    "original": "Gain 7%-15% Armor Penetration"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Focus",
+    "description": "Ganha 5–15 de Foco ao aparar",
+    "original": "Gain 5-15 Focus on Parry"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Stamina",
+    "description": "Ganha 9–30 de Vigor ao aparar",
+    "original": "Gain 9-30 Stamina on Parry"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Gelo aumentado em 3%-10%",
+    "original": "Ice Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Fogo aumentado em 3%-10%",
+    "original": "Fire Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Raio aumentado em 3%-10%",
+    "original": "Lightning Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano Físico aumentado em 3%-10%",
+    "original": "Physical Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Elemental",
+    "description": "Dano de Praga aumentado em 3%-10%",
+    "original": "Plague Damage increased by 3%-10%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Recupera 4%-10% de Vida ao matar",
+    "original": "Gain 4%-10% Health on Kill"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Ganha 10%-25% de Vida Recuperável",
+    "original": "Gain 10%-25% Regainable Health"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Health",
+    "description": "Cura aumentada em 4%-15% com base na durabilidade atual",
+    "original": "Healing increased by 4%-15% of Current Durability"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 3%-10%",
+    "original": "Critical Hit Chance increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 6%-20%",
+    "original": "Critical Damage increased by 6%-20%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Defence",
+    "description": "Resistência Física aumentada em 3%-6%",
+    "original": "Physical Resistance increased by 3%-6%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Defence",
+    "description": "Resistência Elemental aumentada em 5%-10%",
+    "original": "Elemental Resistance increased by 5%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Gloves",
+    "group": "Defence",
+    "description": "Ganha 7%-15% de Barreira ao aparar",
+    "original": "Gain 7%-15% Barrier on Parry"
+  }
+]

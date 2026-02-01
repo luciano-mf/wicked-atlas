@@ -1,0 +1,197 @@
+[
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 30%-100%",
+    "original": "Durability increased by 30%-100%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Misc",
+    "description": "Peso reduzido em 3%-10%",
+    "original": "Weight reduced by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Misc",
+    "description": "Defesa de Postura aumentada em 1–3",
+    "original": "Poise Defense increased by 1-3"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Misc",
+    "description": "Resistência a Atordoamento aumentada em 7%-15%",
+    "original": "Stagger Resistance increased by 7%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Misc",
+    "description": "Perda de durabilidade ignorada com chance de 7%-25%",
+    "original": "Durability Loss ignored with 7%-25% chance"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 12%-40%",
+    "original": "Gain 12%-40% Thorns"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Offensive",
+    "description": "Penetração de Armadura aumentada em 7%-15%",
+    "original": "Gain 7%-15% Armor Penetration"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Offensive",
+    "description": "Dano aumentado em 4%-15% por 10 segundos após consumir comida",
+    "original": "Damage increased by 4%-15% for 10 seconds after Consuming Food"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Custo de Foco reduzido em 3%-10%",
+    "original": "Focus Cost reduced by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Ganho de Foco aumentado em 4%-15%",
+    "original": "Focus Gain increased by 4%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Ganha 5–15 de Foco ao aplicar qualquer status",
+    "original": "Gain 5-15 Focus on inflicting Any Status"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Foco Máximo aumentado em 7%-25%",
+    "original": "Max Focus increased by 7%-25%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Regenera Foco em combate",
+    "original": "Regenerate Focus in Combat"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Ganho de Foco aumentado em 4%-15% com base na durabilidade atual",
+    "original": "Focus Gain increased by 4%-15% of Current Durability"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Custo de Foco reduzido em 6%-20% por 10 segundos após dano causado por Ataque Rúnico",
+    "original": "Focus Cost reduced by 6%-20% for 10 seconds after Damage Dealt by Rune Attack"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Gelo aumentado em 3%-10%",
+    "original": "Ice Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Fogo aumentado em 3%-10%",
+    "original": "Fire Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Raio aumentado em 3%-10%",
+    "original": "Lightning Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano Físico aumentado em 3%-10%",
+    "original": "Physical Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Praga aumentado em 3%-10%",
+    "original": "Plague Damage increased by 3%-10%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Health",
+    "description": "Ganha 10%-25% de Vida Recuperável",
+    "original": "Gain 10%-25% Regainable Health"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 3%-10%",
+    "original": "Critical Hit Chance increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 6%-20%",
+    "original": "Critical Damage increased by 6%-20%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Defence",
+    "description": "Ganha 7%-15% de Barreira ao consumir comida",
+    "original": "Gain 7%-15% Barrier on Consuming Food"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Defence",
+    "description": "Resistência Física aumentada em 3%-6%",
+    "original": "Physical Resistance increased by 3%-6%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Defence",
+    "description": "Resistência Elemental aumentada em 5%-10%",
+    "original": "Elemental Resistance increased by 5%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Helmet",
+    "group": "Defence",
+    "description": "Resistência a Dano aumentada em 3%-10% por 10 segundos após consumir comida",
+    "original": "Damage Resistance increased by 3%-10% for 10 seconds after Consuming Food"
+  }
+]

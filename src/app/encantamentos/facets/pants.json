@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Frantic",
+    "upside": "Velocidade de movimento aumentada",
+    "downside": "Regeneração de Vigor reduzida",
+    "description": "Aumenta a velocidade de movimento, mas reduz a regeneração de Vigor.",
+    "original_upside": "+Movement Speed",
+    "original_downside": "-Stamina Regen"
+  }
+]

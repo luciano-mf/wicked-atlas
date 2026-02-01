@@ -1,0 +1,183 @@
+[
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 50%-100%",
+    "original": "Durability increased by 50%-100%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Misc",
+    "description": "Peso reduzido em 5%-10%",
+    "original": "Weight reduced by 5%-10%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano aumentado em 5%-10%",
+    "original": "Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano aumentado em 15%-30% contra inimigos grandes",
+    "original": "Damage increased by 15%-30% against Large Enemies"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano Rúnico aumentado em 10%-20%",
+    "original": "Rune Damage increased by 10%-20%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Velocidade de Ataque aumentada em 5%-10% com base na durabilidade atual",
+    "original": "Attack Speed increased by 5%-10% of Current Durability"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano aumentado em 5%-10% com base na durabilidade atual",
+    "original": "Damage increased by 5%-10% of Current Durability"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano aumentado em 7%-15% se não houver inimigos por perto",
+    "original": "Damage increased by 7%-15% if no Enemies nearby"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano de Ataque aumentado em 10%-20% por 10 segundos após dano causado por Ataque Rúnico",
+    "original": "Attack Damage increased by 10%-20% for 10 seconds after Damage Dealt by Rune Attack"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano aumentado em 20%-40% por 20 segundos após uma Fatality",
+    "original": "Damage increased by 20%-40% for 20 seconds after Fatality"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Causa 12%-25% de dano ao atordoar um inimigo",
+    "original": "Deal 12%-25% Damage on Staggering an Enemy"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Dano de Atordoamento aumentado em 20%-40% por 20 segundos após uma Fatality",
+    "original": "Stagger Damage increased by 20%-40% for 20 seconds after Fatality"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Offensive",
+    "description": "Causa 7%-15% de dano ao desviar de um ataque",
+    "original": "Deal 7%-15% Damage on Damage Dodged"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Focus",
+    "description": "Ganha 12–25 de Foco ao realizar uma Fatality",
+    "original": "Gain 12-25 Focus on Fatality"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Focus",
+    "description": "Ganha 8–15 de Foco ao matar um inimigo",
+    "original": "Gain 8-15 Focus on Kill"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Stamina",
+    "description": "Custo de Vigor reduzido em 15%-30% por 20 segundos após uma Fatality",
+    "original": "Stamina Cost reduced by 15%-30% for 20 seconds after Fatality"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Health",
+    "description": "Recupera 2%-4% de Vida ao usar Ataque Carregado",
+    "original": "Gain 2%-4% Health on Charged Attack"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Health",
+    "description": "Recupera 1%-2% de Vida ao causar dano em inimigos congelados",
+    "original": "Gain 1%-2% Health on Damage Dealt against Frozen Enemies"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Health",
+    "description": "Recupera 7%-15% de Vida ao realizar uma Fatality",
+    "original": "Gain 7%-15% Health on Fatality"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Health",
+    "description": "Recupera 5%-10% de Vida ao matar um inimigo",
+    "original": "Gain 5%-10% Health on Kill"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Health",
+    "description": "Recupera 7%-15% de Vida ao atordoar um inimigo",
+    "original": "Gain 7%-15% Health on Staggering an Enemy"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Health",
+    "description": "Recupera 3%-5% de Vida ao desviar de um ataque",
+    "original": "Gain 3%-5% Health on Damage Dodged"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Movement",
+    "description": "Velocidade de Movimento aumentada em 7%-15% por 10 segundos após dano causado por Ataque Rúnico",
+    "original": "Movement Speed increased by 7%-15% for 10 seconds after Damage Dealt by Rune Attack"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 5%-10%",
+    "original": "Critical Hit Chance increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Bow",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 10%-20%",
+    "original": "Critical Damage increased by 10%-20%"
+  }
+]

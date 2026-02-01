@@ -1,0 +1,205 @@
+[
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 50%-100%",
+    "original": "Durability increased by 50%-100%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Misc",
+    "description": "Peso reduzido em 5%-10%",
+    "original": "Weight reduced by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Misc",
+    "description": "Defesa de Postura aumentada em 5–10 ao carregar ataque",
+    "original": "Poise Defense increased by 5-10 while Charging"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 20%-40%",
+    "original": "Gain 20%-40% Thorns"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Offensive",
+    "description": "Penetração de Armadura aumentada em 7%-15%",
+    "original": "Gain 7%-15% Armor Penetration"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Offensive",
+    "description": "Causa 7%-15% de dano ao receber dano",
+    "original": "Deal 7%-15% Damage on Damage Taken"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Offensive",
+    "description": "Dano aumentado em 10%-20% por 10 segundos após atordoar um inimigo",
+    "original": "Damage increased by 10%-20% for 10 seconds after Staggering an Enemy"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Offensive",
+    "description": "Armadura de inimigos congelados reduzida em 15%-30%",
+    "original": "Frozen Enemy Armor reduced by 15%-30%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Offensive",
+    "description": "Resistência a Atordoamento de inimigos infectados reduzida em 15%-30%",
+    "original": "Infected Enemy Stagger Resistance reduced by 15%-30%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Focus",
+    "description": "Custo de Foco reduzido em 12%-25% por 10 segundos após atordoar um inimigo",
+    "original": "Focus Cost reduced by 12%-25% for 10 seconds after Staggering an Enemy"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Elemental",
+    "description": "Dano de Gelo aumentado em 5%-10%",
+    "original": "Ice Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Elemental",
+    "description": "Dano de Fogo aumentado em 5%-10%",
+    "original": "Fire Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Elemental",
+    "description": "Dano de Raio aumentado em 5%-10%",
+    "original": "Lightning Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Elemental",
+    "description": "Dano Físico aumentado em 5%-10%",
+    "original": "Physical Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Elemental",
+    "description": "Dano de Praga aumentado em 5%-10%",
+    "original": "Plague Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Elemental",
+    "description": "Dano de Queimadura aumentado em 25%-50%",
+    "original": "Burn Damage increased by 25%-50%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Health",
+    "description": "Limite de Fome aumentado em 1",
+    "original": "Hunger Limit increased by 1"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Health",
+    "description": "Vida Máxima aumentada em 5%-10% do Foco Máximo",
+    "original": "Max Health increased by 5-10% of Max Focus"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Health",
+    "description": "Regenera Vida em combate",
+    "original": "Regenerate Health in Combat"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Movement",
+    "description": "Velocidade total aumentada em 7%-15% por 10 segundos após aplicar Choque",
+    "original": "Overall Speed increased by 7%-15% for 10 seconds after inflicting Shock Status"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 5%-10%",
+    "original": "Critical Hit Chance increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 10%-20%",
+    "original": "Critical Damage increased by 10%-20%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Defence",
+    "description": "Resistência Elemental aumentada em 5%-10%",
+    "original": "Elemental Resistance increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Defence",
+    "description": "Resistência Física aumentada em 3%-6%",
+    "original": "Physical Resistance increased by 3%-6%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Defence",
+    "description": "Ganho de Barreira aumentado em 25%-40%",
+    "original": "Barrier Gain increased by 25%-40%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Defence",
+    "description": "Resistência a Dano aumentada em 10%-20% enquanto carregando ataque",
+    "original": "Damage Resistance increased by 10%-20% while Charging"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Defence",
+    "description": "Resistência a Dano aumentada em 6%-10% com base na durabilidade atual",
+    "original": "Damage Resistance increased by 6%-10% of Current Durability"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Armor",
+    "group": "Defence",
+    "description": "Resistência a Dano aumentada em 25%-50% por 10 segundos após sofrer um status",
+    "original": "Damage Resistance increased by 25%-50% for 10 seconds after being afflicted by Status"
+  }
+]

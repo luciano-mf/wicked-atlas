@@ -1,0 +1,199 @@
+[
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 30%-100%",
+    "original": "Durability increased by 30%-100%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Misc",
+    "description": "Peso reduzido em 3%-10%",
+    "original": "Weight reduced by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Misc",
+    "description": "Defesa de Postura aumentada em 1–3",
+    "original": "Poise Defense increased by 1-3"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Misc",
+    "description": "Resistência a Atordoamento aumentada em 7%-15%",
+    "original": "Stagger Resistance increased by 7%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Misc",
+    "description": "Perda de durabilidade ignorada com chance de 7%-25%",
+    "original": "Durability Loss ignored with 7%-25% chance"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Offensive",
+    "description": "Dano aumentado em 4%-15% por 10 segundos após desviar de um ataque",
+    "original": "Damage increased by 4%-15% for 10 seconds after Damage Dodged"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 12%-40%",
+    "original": "Gain 12%-40% Thorns"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Offensive",
+    "description": "Causa 4%-15% de dano ao desviar de um ataque",
+    "original": "Deal 4%-15% Damage on Damage Dodged"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Offensive",
+    "description": "Penetração de Armadura aumentada em 7%-15%",
+    "original": "Gain 7%-15% Armor Penetration"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Focus",
+    "description": "Ganha 5–15 de Foco ao desviar de um ataque",
+    "original": "Gain 5-15 Focus on Damage Dodged"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Stamina",
+    "description": "Custo de Vigor reduzido em 4%-15%",
+    "original": "Stamina Cost reduced by 4%-15%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Stamina",
+    "description": "Custo de Vigor ao desviar reduzido em 7%-25%",
+    "original": "Dodge Stamina Cost reduced by 7%-25%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Stamina",
+    "description": "Ganha 5–15 de Vigor ao desviar de um ataque",
+    "original": "Gain 5-15 Stamina on Damage Dodged"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Stamina",
+    "description": "Recuperação de Vigor aumentada em 6%-20%",
+    "original": "Stamina Recovery increased by 6%-20%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Stamina",
+    "description": "Recuperação de Vigor aumentada em 6%-20% com base na durabilidade atual",
+    "original": "Stamina Recovery increased by 6%-20% of Current Durability"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Elemental",
+    "description": "Dano de Gelo aumentado em 3%-10%",
+    "original": "Ice Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Elemental",
+    "description": "Dano de Fogo aumentado em 3%-10%",
+    "original": "Fire Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Elemental",
+    "description": "Dano de Raio aumentado em 3%-10%",
+    "original": "Lightning Damage increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Elemental",
+    "description": "Dano Físico aumentado em 3%-10%",
+    "original": "Physical Damage increased by 3%-10%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Health",
+    "description": "Ganha 10%-25% de Vida Recuperável",
+    "original": "Gain 10%-25% Regainable Health"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Movement",
+    "description": "Velocidade de Movimento aumentada em 3%-10%",
+    "original": "Movement Speed increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Movement",
+    "description": "Velocidade de Movimento aumentada em 7%-15% por 20 segundos após matar um inimigo",
+    "original": "Movement Speed increased by 7%-15% for 20 seconds after Kill"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 3%-10%",
+    "original": "Critical Hit Chance increased by 3%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 6%-20%",
+    "original": "Critical Damage increased by 6%-20%"
+  },
+
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Defence",
+    "description": "Resistência Física aumentada em 3%-6%",
+    "original": "Physical Resistance increased by 3%-6%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Defence",
+    "description": "Resistência Elemental aumentada em 5%-10%",
+    "original": "Elemental Resistance increased by 5%-10%"
+  },
+  {
+    "rarity": "Magical",
+    "item": "Pants",
+    "group": "Defence",
+    "description": "Ganha 5%-10% de Barreira ao desviar de um ataque",
+    "original": "Gain 5%-10% Barrier on Damage Dodged"
+  }
+]

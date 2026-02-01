@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Bulky",
+    "upside": "Armadura aumentada",
+    "downside": "Defesa de Postura reduzida",
+    "description": "Aumenta a armadura, mas reduz a defesa de postura.",
+    "original_upside": "+Armor",
+    "original_downside": "-Poise Defense"
+  },
+  {
+    "name": "Dense",
+    "upside": "Armadura aumentada",
+    "downside": "Peso aumentado",
+    "description": "Aumenta a armadura, mas também aumenta o peso.",
+    "original_upside": "+Armor",
+    "original_downside": "+Weight"
+  },
+  {
+    "name": "Indestructible",
+    "upside": "Durabilidade removida",
+    "downside": null,
+    "description": "Remove completamente a durabilidade do item.",
+    "original_upside": "Durability Removed",
+    "original_downside": ""
+  },
+  {
+    "name": "Durable",
+    "upside": "Durabilidade aumentada",
+    "downside": "Ganho de Foco reduzido",
+    "description": "Aumenta a durabilidade, mas reduz o ganho de Foco.",
+    "original_upside": "+Durability Increased",
+    "original_downside": "-Focus Gain"
+  },
+  {
+    "name": "Fireproof",
+    "upside": "Resistência a Fogo aumentada",
+    "downside": "Peso aumentado",
+    "description": "Aumenta a resistência a fogo, mas aumenta o peso.",
+    "original_upside": "+Fire Resistance",
+    "original_downside": "+Weight"
+  },
+  {
+    "name": "Frostwoven",
+    "upside": "Resistência a Gelo aumentada",
+    "downside": "Peso aumentado",
+    "description": "Aumenta a resistência a gelo, mas aumenta o peso.",
+    "original_upside": "+Cold Resistance",
+    "original_downside": "+Weight"
+  },
+  {
+    "name": "Insulated",
+    "upside": "Resistência a Raio aumentada",
+    "downside": "Peso aumentado",
+    "description": "Aumenta a resistência a raio, mas aumenta o peso.",
+    "original_upside": "+Lightning Resistance",
+    "original_downside": "+Weight"
+  },
+  {
+    "name": "Purified",
+    "upside": "Resistência a Praga aumentada",
+    "downside": "Peso aumentado",
+    "description": "Aumenta a resistência a praga, mas aumenta o peso.",
+    "original_upside": "+Plague Resistance",
+    "original_downside": "+Weight"
+  },
+  {
+    "name": "Mystic",
+    "upside": "Ganho de Foco aumentado",
+    "downside": "Regeneração de Vigor reduzida",
+    "description": "Aumenta o ganho de Foco, mas reduz a regeneração de Vigor.",
+    "original_upside": "+Focus Gain",
+    "original_downside": "-Stamina Regen"
+  },
+  {
+    "name": "Stable",
+    "upside": "Poise aumentado",
+    "downside": "Ganho de Foco reduzido",
+    "description": "Aumenta o poise, mas reduz o ganho de Foco.",
+    "original_upside": "+Poise",
+    "original_downside": "-Focus Gain"
+  },
+  {
+    "name": "Agile",
+    "upside": "Regeneração de Vigor aumentada",
+    "downside": "Ganho de Foco reduzido",
+    "description": "Aumenta a regeneração de Vigor, mas reduz o ganho de Foco.",
+    "original_upside": "+Stamina Regen",
+    "original_downside": "-Focus Gain"
+  }
+]

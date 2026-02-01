@@ -1,0 +1,141 @@
+[
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Misc",
+    "description": "Durabilidade aumentada em 50%-100%",
+    "original": "Durability increased by 50%-100%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Misc",
+    "description": "Peso reduzido em 5%-10%",
+    "original": "Weight reduced by 5%-10%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Offensive",
+    "description": "Espinhos aumentados em 20%-40%",
+    "original": "Gain 20%-40% Thorns"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Offensive",
+    "description": "Penetração de Armadura aumentada em 7%-15%",
+    "original": "Gain 7%-15% Armor Penetration"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Custo de Foco reduzido em 5%-10%",
+    "original": "Focus Cost reduced by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Ganha 8–15 de Foco ao aplicar qualquer status",
+    "original": "Gain 8-15 Focus on inflicting Any Status"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Ganho de Foco aumentado em 7%-15%",
+    "original": "Focus Gain increased by 7%-15%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Focus",
+    "description": "Ganho de Foco aumentado em 7%-15% com base na durabilidade atual",
+    "original": "Focus Gain increased by 7%-15% based on current durability"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Gelo aumentado em 5%-10%",
+    "original": "Ice Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagaged",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Fogo aumentado em 5%-10%",
+    "original": "Fire Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Raio aumentado em 5%-10%",
+    "original": "Lightning Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano Físico aumentado em 5%-10%",
+    "original": "Physical Damage increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Elemental",
+    "description": "Dano de Praga aumentado em 5%-10%",
+    "original": "Plague Damage increased by 5%-10%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Health",
+    "description": "Recupera Vida igual a 5%-10% do Foco gasto",
+    "original": "Gain Health equal to 5%-10% of Focus Spent"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Health",
+    "description": "Cura aumentada em 15%-30% com Foco baixo",
+    "original": "Healing increased by 15%-30% at Low Focus"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Critical",
+    "description": "Chance de Crítico aumentada em 5%-10%",
+    "original": "Critical Hit Chance increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Critical",
+    "description": "Dano Crítico aumentado em 10%-20%",
+    "original": "Critical Damage increased by 10%-20%"
+  },
+
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Defence",
+    "description": "Resistência Elemental aumentada em 5%-10%",
+    "original": "Elemental Resistance increased by 5%-10%"
+  },
+  {
+    "rarity": "Plagued",
+    "item": "Helmet",
+    "group": "Defence",
+    "description": "Resistência Física aumentada em 3%-6%",
+    "original": "Physical Resistance increased by 3%-6%"
+  }
+]

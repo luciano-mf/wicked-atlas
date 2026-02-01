@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Quick",
+    "upside": "Velocidade de ataque aumentada",
+    "downside": "Dano reduzido",
+    "description": "Aumenta a velocidade de ataque, mas reduz o dano.",
+    "original_upside": "+Attack Speed",
+    "original_downside": "-Damage"
+  },
+  {
+    "name": "Nimble",
+    "upside": "Custo de Vigor reduzido",
+    "downside": "Ganho de Foco reduzido",
+    "description": "Reduz o custo de Vigor, mas diminui o ganho de Foco.",
+    "original_upside": "-Stamina Cost",
+    "original_downside": "-Focus Gain"
+  },
+  {
+    "name": "Keen",
+    "upside": "Chance de crítico aumentada",
+    "downside": "Dano de Postura reduzido",
+    "description": "Aumenta a chance de crítico, mas reduz o dano de postura.",
+    "original_upside": "+Crit Chance",
+    "original_downside": "-Poise Damage"
+  },
+  {
+    "name": "Razor",
+    "upside": "Chance de crítico aumentada",
+    "downside": "Durabilidade reduzida",
+    "description": "Aumenta a chance de crítico, mas reduz a durabilidade.",
+    "original_upside": "+Crit Chance",
+    "original_downside": "-Durability"
+  },
+  {
+    "name": "Sharp",
+    "upside": "Dano crítico aumentado",
+    "downside": "Dano reduzido",
+    "description": "Aumenta o dano crítico, mas reduz o dano base.",
+    "original_upside": "+Crit Damage",
+    "original_downside": "-Damage"
+  },
+  {
+    "name": "Reliable",
+    "upside": "Dano e dano de postura aumentados",
+    "downside": "Chance de crítico removida",
+    "description": "Aumenta dano e dano de postura, mas remove chance de crítico.",
+    "original_upside": "+Damage & Poise Damage",
+    "original_downside": "Crit Chance Removed"
+  },
+  {
+    "name": "Heavy",
+    "upside": "Dano aumentado",
+    "downside": "Custo de Vigor do ataque aumentado",
+    "description": "Aumenta o dano, mas aumenta o custo de Vigor dos ataques.",
+    "original_upside": "+Damage",
+    "original_downside": "+Attack Stamina Cost"
+  },
+  {
+    "name": "Mundane",
+    "upside": "Dano aumentado",
+    "downside": "Ganho de Foco reduzido",
+    "description": "Aumenta o dano, mas reduz o ganho de Foco.",
+    "original_upside": "+Damage",
+    "original_downside": "-Focus Gain"
+  },
+  {
+    "name": "Clumsy",
+    "upside": "Dano aumentado",
+    "downside": "Velocidade de ataque reduzida",
+    "description": "Aumenta o dano, mas reduz a velocidade de ataque.",
+    "original_upside": "+Damage",
+    "original_downside": "-Attack Speed"
+  },
+  {
+    "name": "Durable",
+    "upside": "Durabilidade aumentada",
+    "downside": "Ganho de Foco reduzido",
+    "description": "Aumenta a durabilidade, mas reduz o ganho de Foco.",
+    "original_upside": "+Durability",
+    "original_downside": "-Focus Gain"
+  },
+  {
+    "name": "Ritualistic",
+    "upside": "Ganho de Foco aumentado",
+    "downside": "Custo de Vigor aumentado",
+    "description": "Aumenta o ganho de Foco, mas aumenta o custo de Vigor.",
+    "original_upside": "+Focus Gain",
+    "original_downside": "+Stamina Cost"
+  },
+  {
+    "name": "Blunt",
+    "upside": "Dano de postura aumentado",
+    "downside": "Ganho de Foco reduzido",
+    "description": "Aumenta o dano de postura, mas reduz o ganho de Foco.",
+    "original_upside": "+Poise Damage",
+    "original_downside": "-Focus Gain"
+  },
+  {
+    "name": "Indestructible",
+    "upside": "Durabilidade removida",
+    "downside": null,
+    "description": "Remove completamente a durabilidade do item.",
+    "original_upside": "Durability Removed",
+    "original_downside": ""
+  },
+  {
+    "name": "Flaming",
+    "upside": "Infusão de Fogo",
+    "downside": "Dano reduzido",
+    "description": "Aplica infusão de fogo, mas reduz o dano.",
+    "original_upside": "Fire Infusion",
+    "original_downside": "-Damage"
+  },
+  {
+    "name": "Frigid",
+    "upside": "Infusão de Gelo",
+    "downside": "Dano reduzido",
+    "description": "Aplica infusão de gelo, mas reduz o dano.",
+    "original_upside": "Cold Infusion",
+    "original_downside": "-Damage"
+  },
+  {
+    "name": "Voltaic",
+    "upside": "Infusão de Raio",
+    "downside": "Dano reduzido",
+    "description": "Aplica infusão de raio, mas reduz o dano.",
+    "original_upside": "Lightning Infusion",
+    "original_downside": "-Damage"
+  },
+  {
+    "name": "Festering",
+    "upside": "Infusão de Praga",
+    "downside": null,
+    "description": "Aplica infusão de praga ao item.",
+    "original_upside": "Plague Infusion",
+    "original_downside": ""
+  },
+  {
+    "name": "Regular",
+    "upside": "Sem mudanças",
+    "downside": null,
+    "description": "Não altera nenhuma característica do item.",
+    "original_upside": "No Change",
+    "original_downside": ""
+  }
+]
