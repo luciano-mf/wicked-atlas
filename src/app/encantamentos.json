@@ -1,0 +1,48 @@
+{
+  "Magical": {
+    "Weapon": {
+      "Misc": [
+        {
+          "description": "Dano de Atordoamento aumentado em 15%-30% por 20s após matar um inimigo"
+        },
+        {
+          "description": "Dano de Atordoamento aumentado em 15%-30% por 30s após Backstab"
+        },
+        {
+          "description": "Durabilidade aumentada em 30%-100%"
+        },
+        {
+          "description": "Peso reduzido em 3%-10%"
+        },
+        {
+          "description": "Dano aumentado em 15%-30% por 30s após Backstab"
+        }
+      ],
+      "Offensive": [
+        { "description": "Dano de Ataque aumentado em 4%-15%" },
+        { "description": "Dano aumentado em 3%-10%" },
+        { "description": "Dano de Ataque aumentado em 6%-20% por 10s após dano causado por Ataque Rúnico" },
+        { "description": "Dano aumentado em 2%-5% por inimigo próximo" },
+        { "description": "Causa 7%-25% de dano ao atordoar um inimigo" },
+        { "description": "Dano Rúnico aumentado em 4%-15%" },
+        { "description": "Dano de Atordoamento aumentado em 4%-15%" },
+        { "description": "Velocidade de Ataque aumentada em 3%-10% baseado na durabilidade atual" },
+        { "description": "Dano aumentado em 3%-10% baseado na durabilidade atual" },
+        { "description": "Custo de Vigor do Ataque reduzido em 7%-15%" }
+      ],
+      "Stamina": [
+        { "description": "Custo de Vigor do Ataque reduzido em 7%-25% por 10s após Parry" }
+      ],
+      "Health": [
+        { "description": "Recupera 4%-10% de Vida ao matar" }
+      ],
+      "Critical": [
+        { "description": "Chance de Crítico aumentada em 3%-10%" },
+        { "description": "Dano Crítico aumentado em 6%-20%" }
+      ],
+      "Defence": [
+        { "description": "Ganha 12%-25% de Barreira ao matar" }
+      ]
+    }
+  }
+}
