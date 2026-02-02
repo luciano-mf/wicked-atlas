@@ -30,7 +30,6 @@ export async function getAllEncantamentos(): Promise<Encantamento[]> {
       // ignore missing category folder
     }
   }
-
   return result;
 }
 
@@ -62,7 +61,7 @@ export async function getFacetEncantamentos(): Promise<Record<string, any>[]> {
 }
 
 export async function getCategories(): Promise<string[]> {
-  return ['magical', 'plalgued'];
+  return ['magical', 'plagued','facet'];
 }
 
 export type Column = {

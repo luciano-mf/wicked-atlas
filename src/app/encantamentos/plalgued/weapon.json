@@ -1,34 +1,34 @@
 [
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Misc",
     "description": "Durabilidade aumentada em 50%-100%",
     "original": "Durability increased by 50%-100%"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Misc",
     "description": "Peso reduzido em 5%-10%",
     "original": "Weight reduced by 5%-10%"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Misc",
     "description": "Ganha 5–10 de Foco ao realizar Backstab",
     "original": "Gain 5-10 Focus on Backstab"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Misc",
     "description": "Ganha 10%-20% de Vida ao realizar Backstab",
     "original": "Gain 10%-20% Health on Backstab"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Misc",
     "description": "Dano aumentado em 15%-30% por 30 segundos após Backstab",
@@ -36,63 +36,63 @@
   },
 
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Dano aumentado em 5%-10%",
     "original": "Damage increased by 5%-10%"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Dano aumentado em 15%-30% contra inimigos grandes",
     "original": "Damage increased by 15%-30% against Large Enemies"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Dano aumentado em 5%-10% com base na durabilidade atual",
     "original": "Damage increased by 5%-10% of Current Durability"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Dano aumentado em 20%-40% por 20 segundos após uma Fatality",
     "original": "Damage increased by 20%-40% for 20 seconds after Fatality"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Dano de Ataque aumentado em 10%-20% por 10 segundos após dano causado por Ataque Rúnico",
     "original": "Attack Damage increased by 10%-20% for 10 seconds after Damage Dealt by Rune Attack"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Causa 12%-25% de dano ao atordoar um inimigo",
     "original": "Deal 12%-25% Damage on Staggering an Enemy"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Dano Rúnico aumentado em 10%-20%",
     "original": "Rune Damage increased by 10%-20%"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Velocidade de Ataque aumentada em 5%-10% com base na durabilidade atual",
     "original": "Attack Speed increased by 5%-10% of Current Durability"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Offensive",
     "description": "Dano de Atordoamento aumentado em 20%-40% por 20 segundos após uma Fatality",
@@ -100,14 +100,14 @@
   },
 
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Focus",
     "description": "Ganha 12–25 de Foco ao realizar uma Fatality",
     "original": "Gain 12-25 Focus on Fatality"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Focus",
     "description": "Ganha 8–15 de Foco ao matar um inimigo",
@@ -115,14 +115,14 @@
   },
 
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Stamina",
     "description": "Custo de Vigor reduzido em 15%-30% por 20 segundos após uma Fatality",
     "original": "Stamina Cost reduced by 15%-30% for 20 seconds after Fatality"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Stamina",
     "description": "Custo de Vigor do Ataque reduzido em 12%-25% por 10 segundos após Parry",
@@ -130,35 +130,35 @@
   },
 
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Health",
     "description": "Recupera 2%-4% de Vida ao usar Ataque Carregado",
     "original": "Gain 2%-4% Health on Charged Attack"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Health",
     "description": "Recupera 1%-2% de Vida ao causar dano em inimigos congelados",
     "original": "Gain 1%-2% Health on Damage Dealt against Frozen Enemies"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Health",
     "description": "Recupera 7%-15% de Vida ao realizar uma Fatality",
     "original": "Gain 7%-15% Health on Fatality"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Health",
     "description": "Recupera 5%-10% de Vida ao matar um inimigo",
     "original": "Gain 5%-10% Health on Kill"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Health",
     "description": "Recupera 7%-15% de Vida ao atordoar um inimigo",
@@ -166,7 +166,7 @@
   },
 
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Movement",
     "description": "Velocidade de Movimento aumentada em 7%-15% por 10 segundos após dano causado por Ataque Rúnico",
@@ -174,14 +174,14 @@
   },
 
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Critical",
     "description": "Chance de Crítico aumentada em 5%-10%",
     "original": "Critical Hit Chance increased by 5%-10%"
   },
   {
-    "rarity": "Plagged",
+    "rarity": "Plagued",
     "item": "Weapon",
     "group": "Critical",
     "description": "Dano Crítico aumentado em 10%-20%",
