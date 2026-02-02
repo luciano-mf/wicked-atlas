@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Rapid",
+    "upside": "Velocidade de ataque aumentada",
+    "downside": "Regeneração de Vigor reduzida",
+    "description": "Aumenta a velocidade de ataque, mas reduz a regeneração de Vigor.",
+    "original_upside": "+Attack Speed",
+    "original_downside": "-Stamina Regen"
+  }
+]
