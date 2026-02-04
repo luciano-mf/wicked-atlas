@@ -61,7 +61,7 @@ export async function getFacetEncantamentos(): Promise<Record<string, any>[]> {
 }
 
 export async function getCategories(): Promise<string[]> {
-  return ['magical', 'plagued','facet'];
+  return ['magical', 'plagued'];
 }
 
 export type Column = {
